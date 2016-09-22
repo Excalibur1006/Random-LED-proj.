@@ -1,4 +1,4 @@
-int dTime = 500; //Delay time
+int dTime = 5000; //Delay time
 
 void setup() {
   pinMode(1,OUTPUT); //Declare pin 1 to be an output
